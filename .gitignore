@@ -1,1 +1,6 @@
 config.py
+
+*.csv
+pass.py
+vine_table.csv
+data/
